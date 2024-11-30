@@ -69,7 +69,7 @@ document.querySelector(".call-alert").addEventListener("click", function () {
         cursor: pointer;
     display:block;
     margin:auto;
-
+color:black;
     width: 170px;
     height: 30px;
     background-color: rgb(122, 122, 122);
